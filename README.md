@@ -1,4 +1,4 @@
-### Hayden Donald
+### Not a bot.
 
 Hi! I'm Hayden, a Robotics / Computer Science student at Swinburne looking to graudate this year!
 
