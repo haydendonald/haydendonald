@@ -1,5 +1,5 @@
 ### Not a bot.
 
-Hi! I'm Hayden, a Robotics / Computer Science student at Swinburne looking to graudate this year!
+Hi! I'm Hayden, a Robotics / Computer Science Graduate!
 
 I hope you enjoy my repositories and they come in helpful 😄
