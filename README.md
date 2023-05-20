@@ -12,6 +12,7 @@ Hi I'm Hayden a Mechatronic Engineer / Computer Science Graduate apart of the te
 - Coding Stuff
 
 **Favorite Languages**
+- TypeScript
 - JavaScript
 - C++
 - Python
